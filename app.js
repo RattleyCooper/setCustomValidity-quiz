@@ -47,22 +47,3 @@ function checkInputs(firstInput, secondInput){
 submit.onclick = function () {
     checkInputs(firstPasswordInput, secondPasswordInput);
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
